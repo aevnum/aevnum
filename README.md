@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm Kshitij Nevrekar — a Data Scientist in training, Vice President of Technology at [Data Mavericks](https://github.com/aevnum), and someone who can probably debug a Python script faster than I can find my keys.
+I'm Kshitij Nevrekar — a Data Scientist in training, and someone who can probably debug a Python script faster than I can find my keys.
 
 When I’m not taming dataframes or wrestling with neural nets, I’m min-maxing my builds in survival games or trying to automate something for the fun of it.
 
