@@ -37,7 +37,7 @@ Your YouTube takes a pause when you stop looking? Yeah, I made that happen.
 Like JustDance… but with Unity, MediaPipe, OpenCV, and way more squats while debugging.
 
 ### 🖱️ Hackathon Registration Portal  
-Simple, secure, and actually works without breaking at 3AM (tested in production at a real hackathon!)
+Simple, secure, and actually works without breaking at 3AM
 
 ---
 
