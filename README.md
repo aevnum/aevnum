@@ -3,12 +3,12 @@
 <h1 align="center">Hey there, I'm Kshitij 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+Kshitij+%F0%9F%91%8B;Data+Scientist+in+training+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+%26+ML+nerd+by+day+%E2%9C%A8+;Gaming+optimizer+by+night+%F0%9F%8E%AE;Currently+living+in+%60~%2Fnotebooks%60" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=700&height=45&lines=Building+neural+networks+and+debugging+life;Fuelled+by+curiosity+and+black+coffee;Lover+of+factory+sims+and+efficiency+loops;Always+asking+%22but+why+though%3F%22;Breaking+down+systems+—+in+code+or+games;Turning+data+into+decisions+one+model+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
   🎓 <em>Data Science undergrad at NMIMS Mumbai</em><br>
-  🧠 <em>AI & ML nerd by day, gaming optimizer by night</em><br>
+  🧠 <em>AI & ML nerd by day, sim/sandbox player by night</em><br>
   📍 <em>Currently in Mumbai, but living mostly in <code>~/notebooks</code></em>
 </p>
 
