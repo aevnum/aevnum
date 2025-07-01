@@ -52,10 +52,7 @@ Simple, secure, and actually works without breaking at 3AM
 
 ## 🧾 Certified Geek
 
-- 🧠 Neural Networks & Deep Learning – DeepLearning.ai  
-- 🔍 Hyperparameter Tuning & Regularization – DeepLearning.ai  
-- 📊 Excel Data Prep – Microsoft  
-- 🔧 ML Project Structuring – DeepLearning.ai  
+- 🧠 Deep Learning Specialization – DeepLearning.ai  
 
 ---
 
