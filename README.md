@@ -101,5 +101,5 @@ Simple, secure, and actually works without breaking at 3AM
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Thanks+for+scrolling!+;Don't+forget+to+git+commit+-m+%22✨+New+Connection%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Thanks+for+scrolling!+;Don%27t+forget+to+git+commit+-m+%22%E2%9C%A8+New+Connection%22" alt="Typing SVG" />
 </div>
