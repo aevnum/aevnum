@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Kshitij 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=700&height=45&lines=Building+neural+networks+and+debugging+life;Fuelled+by+curiosity+and+black+coffee;Lover+of+factory+sims+and+efficiency+loops;Always+asking+%22but+why+though%3F%22;Breaking+down+systems+—+in+code+or+games;Turning+data+into+decisions+one+model+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=700&height=45&lines=Building+neural+networks+and+debugging+life;Fueled+by+curiosity+and+black+coffee;Lover+of+factory+sims+and+efficiency+loops;Always+asking+%22but+why+though%3F%22;Breaking+down+systems+%E2%80%94+in+code+or+games;Turning+data+into+decisions+one+model+at+a+time" alt="Typing animation" />
 </p>
 
 <p align="center">
