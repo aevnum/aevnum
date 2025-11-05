@@ -47,7 +47,7 @@ When I’m not taming dataframes or wrestling with neural nets, I’m min-maxing
 ## 🧪 Projects I'm Proud Of
 
 ### 🧠 Braindump Sanctuary
-A sanctuary to keep all th racing thoughts you get before sleeping + have AI write a blog and cluster them for you
+A sanctuary to keep all the racing thoughts you get before sleeping + have AI write a blog and cluster them for you
 
 ### 🕵️‍♂️ AI Mafia
 I pitted 8 AI agents against each other in a game of Mafia - with expert orchestration and prompt engineering
