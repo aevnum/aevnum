@@ -46,18 +46,17 @@ When I’m not taming dataframes or wrestling with neural nets, I’m min-maxing
 
 ## 🧪 Projects I'm Proud Of
 
+### 🧠 Braindump Sanctuary
+A sanctuary to keep all th racing thoughts you get before sleeping + have AI write a blog and cluster them for you
+
+### 🕵️‍♂️ AI Mafia
+I pitted 8 AI agents against each other in a game of Mafia - with expert orchestration and prompt engineering
+
 ### 🐦 Avian Intelligence 50  
 CNN-powered bird recognition + fun facts chatbot + Hugging Face deployment = birdwatchers' dream  
-→ [Hugging Face Space (Live Soon!)](https://huggingface.co/aevnum)
 
 ### 👀 Attention Aware Video Player  
 Your YouTube takes a pause when you stop looking? Yeah, I made that happen.
-
-### 🕺 HealthyDance VR  
-Like JustDance… but with Unity, MediaPipe, OpenCV, and way more squats while debugging.
-
-### 🖱️ Hackathon Registration Portal  
-Simple, secure, and actually works without breaking at 3AM
 
 ---
 
@@ -73,15 +72,13 @@ Simple, secure, and actually works without breaking at 3AM
 ## 🧾 Certified Geek
 
 - 🧠 Deep Learning Specialization – DeepLearning.ai  
-- 🔍 Hyperparameter Tuning, Regularization – DeepLearning.ai  
-- 🧱 Structuring ML Projects – DeepLearning.ai  
 - 📊 Data Prep with Excel – Microsoft
 
 ---
 
 ## 🕹️ Bonus Round: Hobbies
 
-- 🧩 Learning Japanese (JLPT N5 ✅) and German (soon!)
+- 🧩 Learning Japanese (N5!) and German (A1!)
 - 🎮 Gamer at heart – if it has crafting or resource optimization, I’ve probably overanalyzed it
 
 ---
