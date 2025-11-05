@@ -64,7 +64,7 @@ Your YouTube takes a pause when you stop looking? Yeah, I made that happen.
 
 - **Data Science Intern @ Indilabs.ai**  
   Crafting dashboards & ML models for credit and insurance risk  
-- **Data Science Intern @ AkzoNobel**  
+- **Data Science Research Team Lead (Intern) @ AkzoNobel**  
   Researching physics-informed neural nets (yes, that’s a real thing and it’s super cool)
 
 ---
